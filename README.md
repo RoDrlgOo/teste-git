@@ -2,3 +2,4 @@
 
 ## Teste 2 com arquivo git
 
+* comando git push
